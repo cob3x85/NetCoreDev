@@ -1,9 +1,8 @@
 
 using Microsoft.EntityFrameworkCore;
 
-namespace StoreApi
+namespace StoreApi.Models
 {
-
   public class StoreContext : DbContext
   {
     public StoreContext(DbContextOptions<StoreContext> options) : base(options)

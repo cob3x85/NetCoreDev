@@ -1,4 +1,4 @@
-namespace StoreApi
+namespace StoreApi.Models
 {
   public class User
   {
